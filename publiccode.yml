@@ -6,5 +6,5 @@ publiccodeYmlVersion: '0.2'
 name: publiccode maven
 releaseDate: '2019-07-12'
 url: 'https://github.com/mspasiano/publiccode-maven'
-softwareVersion: 0.0.15
+softwareVersion: 0.0.16
 developmentStatus: stable
