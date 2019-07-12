@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>publiccode</artifactId>
-    <version>0.0.15-SNAPSHOT</version>
+    <version>0.0.15</version>
     <name>Publiccode Upgrade</name>
     <groupId>it.cnr.si</groupId>
     <packaging>pom</packaging>
@@ -70,6 +70,6 @@
     <scm>
         <connection>scm:git:ssh://git@github.com/mspasiano/publiccode-maven.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/mspasiano/publiccode-maven.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>publiccode-0.0.15</tag>
     </scm>
 </project>
